@@ -131,7 +131,7 @@ lock.show({
 
 ![][icon-image]
 
-> Note: To disable the header badge at all UI customizations are required. Read the wiki [[article|ui-customization]] on this topic.
+> Note: To disable the header badge, [UI customizations][ui-customization] are required.
 
 ### closable {Boolean}
 
@@ -481,6 +481,7 @@ Internally set from `callback` parameter
 [popupoptions-image]: https://cloudup.com/cqvq_Gz5VUZ+
 [gravatar-image]: https://cldup.com/yt3vJ2UQzq.png
 [defaultadusernamefromemailprefix-image]: https://cldup.com/IWdks93Oh5.png
+[ui-customization]: https://auth0.com/docs/libraries/lock/ui-customization
 
 [lock-i18n]: /libraries/lock/i18n
 [lock-custom-errors]: /libraries/lock/customizing-error-messages
